@@ -8,6 +8,8 @@ int main(int argc, char** argv)
 	char c;
 	string s;
 	
+	cout << "Ola Mundo"; << endl;
+	
 	cout << "Digite um valor int: ";
 	cin >> i;
 	cout << "Valor int digitado: " << i << endl;
