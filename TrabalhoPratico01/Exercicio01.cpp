@@ -3,8 +3,8 @@
 #include <stdlib.h>
 using namespace std;
 
-#define POL 15
-#define FIL 40
+#define POL 40
+#define FIL 15
 
 
 
