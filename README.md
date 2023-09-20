@@ -1,2 +1,2 @@
 # ESD-Prof-Marco-Aurelio
-Repositorio onde ficaram as atividades da materia Estrutura de Dados
+Repositório onde ficaram as atividades da matéria Estrutura de Dados
